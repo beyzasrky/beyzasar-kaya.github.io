@@ -8,31 +8,31 @@
 .one {
   grid-column: 1/4;
   grid-row: 1;
-  background-color: rgb(8, 164, 175);
+  background-color: red(8, 164, 175);
   text-align: center;
 }
 .two {
   grid-column: 1;
   grid-row: 4 / 8;
-  background-color: rgb(8, 164, 175);
+  background-color: red(8, 164, 175);
 }
 .three {
   grid-column: 2;
   grid-row: 4 / 6;
-  background-color: rgb(8, 164, 175);
+  background-color: red(8, 164, 175);
 }
 .four {
   grid-column: 3;
   grid-row: 4 / 6;
-  background-color: rgb(8, 164, 175);
+  background-color: red(8, 164, 175);
 }
 .five {
   grid-column: 2;
   grid-row: 6 / 8;
-  background-color: rgb(8, 164, 175);
+  background-color: red(8, 164, 175);
 }
 .six {
   grid-column: 3;
   grid-row: 6 / 8;
-  background-color: rgb(8, 164, 175);
+  background-color: red(8, 164, 175);
 }
